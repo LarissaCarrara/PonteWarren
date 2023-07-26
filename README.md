@@ -12,7 +12,7 @@
 
 - Requisitos 
 1. Capacidade de Carga: O projeto deve garantir que a ponte suporte uma carga de no mínimo 20 kg. Para atender a essa necessidade, a resiliência e a estabilidade da estrutura são essenciais.
-2. projeto deve ser desenvolvido considerando o aproveitamento de até 400 palitos de madeira. Para construir uma ponte robusta e segura dentro dessa restrição , é crucial projetar o uso eficiente da madeira. 
+2. projeto deve ser desenvolvido considerando o aproveitamento de até 400 palitos de madeira, considerando um tamanho de até 90 centímetros. Para construir uma ponte robusta e segura dentro dessa restrição , é crucial projetar o uso eficiente da madeira. 
 3. Materiais adicionais: Além dos pilares parade madeira, outros materiais como calafetagem de secagem rápida e prendedores de madeira ou plástico.
 4. Equipes: Formar grupos de até 6 participantes, assegurando que cada equipe possua uma distribuição equilibrada de habilidades e competências para enfrentar os desafios do projeto.
 5. Prazo: Estabelecer um prazo realista para a conclusão do projeto, considerando o tempo necessário para o planejamento, construção e testes da ponte. O cronograma deve ser gerenciado de forma eficiente para cumprir os objetivos dentro do prazo estipulado.
